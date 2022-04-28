@@ -1,4 +1,4 @@
-name: geo3
+name: polarwatch
 channels:
   - conda-forge
   - defaults
@@ -256,4 +256,3 @@ dependencies:
   - zipp=3.4.0=py_0
   - zlib=1.2.11=h7795811_1010
   - zstd=1.4.5=h289c70a_2
-prefix: /Users/jsevadjian/opt/anaconda3/envs/geo3
